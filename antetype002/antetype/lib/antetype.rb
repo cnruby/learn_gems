@@ -1,5 +1,5 @@
-require "lib/antetype/version"
-require 'lib/antetype/base'
+require 'antetype/version'
+require 'antetype/base'
 
 module Antetype
   DEFAULT_CONFIG_PATH = '~/.antetype'
