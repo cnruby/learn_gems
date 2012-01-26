@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'antetype'
+
+Antetype::Base.start
