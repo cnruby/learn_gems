@@ -1,6 +1,10 @@
-
+如何把Git代码库服务器下载到本地代码？
+(用户定义工作目录：$GEMS_WORK)
+cd $GEMS_WORK
+git clone https://github.com/cnruby/learn_gems.git
 
 如何把本地代码上传到Git代码库服务器？
+(需要cnruby授权)
 cd /Users/gudao/ws/github/learn_gems
 git add .
 git commit -m 'examples for ruby 1.9.2p180 and rails 3.1'
