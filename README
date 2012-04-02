@@ -9,3 +9,5 @@ cd /Users/gudao/ws/github/learn_gems
 git add .
 git commit -m 'examples for ruby 1.9.2p180 and rails 3.1'
 git push -u origin master
+在"Username:"提示之后，输入[用户名]；
+在"Password:"提示之后，输入[密码]；
