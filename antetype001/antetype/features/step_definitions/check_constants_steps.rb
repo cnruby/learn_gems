@@ -47,7 +47,3 @@ end
 # 那么 /^: 我应该看到该常量值是<(~\/\.antetype)>$/ do |result|
 #   @result.should == result
 # end
-
-# require 'antetype'
-
-
