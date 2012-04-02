@@ -1,0 +1,7 @@
+
+
+如何把本地代码上传到Git代码库服务器？
+cd /Users/gudao/ws/github/learn_gems
+git add .
+git commit -m 'examples for ruby 1.9.2p180 and rails 3.1'
+git push -u origin master
