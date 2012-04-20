@@ -1,4 +1,4 @@
-require 'antetype/version'
+#require "antetype/version"
 require 'antetype/base'
 
 module Antetype
