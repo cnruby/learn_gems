@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Gudao Luo"]
   s.email       = ["gudao.luo@gmail.com"]
   s.homepage    = "http://www.lycom.de"
-  s.summary     = %q{Learn how to develop the Gem package}
+  s.summary     = %q{Learn how to develop the Gem package Antetype}
   s.description = %q{Learn how to develop the Gem package.}
 
   s.rubyforge_project = "antetype"
