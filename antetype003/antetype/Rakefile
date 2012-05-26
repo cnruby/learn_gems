@@ -1,0 +1,7 @@
+require 'bundler/gem_tasks'
+require 'code_statistics'
+require 'antetype'
+
+require './tasks/helper'
+Dir["tasks/**/*.rake"].each { |t| load t }
+
