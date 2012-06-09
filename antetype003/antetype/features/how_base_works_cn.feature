@@ -14,7 +14,7 @@
 
 场景: 检验函数version是否返回正确信息
 当:我调用函数version
-那么:我应该看到函数version返回值是<0.0.3>
+那么:我应该看到函数version返回值是<0.0.3.1>
 
 场景: 检验函数show_antetype_dir是否返回正确信息
 当:我调用函数show_antetype_dir
